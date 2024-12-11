@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/shaahini/blog
+    - export DEPLOYPATH=/home/shaahini/blog.shaahin.info
     - /bin/cp -R * $DEPLOYPATH
